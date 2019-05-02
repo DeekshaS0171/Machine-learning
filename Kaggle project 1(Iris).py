@@ -13,7 +13,7 @@ import seaborn as sns
 # In[3]:
 
 
-data = pd.read_csv('C:\\Users\\deeks\\Desktop\\Adsoft\\ML\\Beginners_Level\\Iris1.csv')
+data = pd.read_csv('.........................\\Iris1.csv')
 data_copy = data.copy()
 
 
